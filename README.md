@@ -2,7 +2,7 @@
 
 ### **You can run this command to execute the latest script directly:**
 ```
-bash <(curl -L https://github.com/Nico-Shock/Arch-Linux-Helper-Script/releases/latest/download/Helper.sh)
+bash <(curl -L github.com/Nico-Shock/Arch-Helper-Script/releases/latest/download/Helper.sh)
 ```
 
 ## **What the Script Does**
